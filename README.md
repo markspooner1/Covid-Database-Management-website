@@ -1,4 +1,4 @@
-# Covid-Database-Management-website
+# Covid-Database-Management-Website
 
 Website using php and SQL to managae a COVID database system with different views for Administrators, Researchers, Delegates.
 ![Screen Shot 2022-09-10 at 11 45 23 AM](https://user-images.githubusercontent.com/105259793/189491033-7fcfc0ad-2f80-452f-a622-7393af74683b.png)
